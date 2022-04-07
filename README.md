@@ -13,5 +13,6 @@ Required Elements:
 * CSS Flexbox
 
 Skills Demonstrated:
+* Responsive Web Design
 * HTML
 * CSS
