@@ -1,0 +1,99 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Raleway, sans-serif;
+    font-weight: 300;
+}
+
+img{
+    max-width: 100%;
+    display: block;
+}
+
+/***********
+Typography
+************/
+
+h2{
+    font-family: Playfair Display, sans-serif;
+    margin: 0;
+}
+
+/***********
+Layout
+************/
+.container{
+    width:95%;
+    max-width: 980px;
+    margin: 0 auto;
+}
+
+header{
+    background-color: #FAF2F2;
+}
+
+.site-logo-img{
+    width: 9em;
+    margin: 0 auto;
+}
+
+
+
+/***********
+Navigation
+************/
+
+.container-nav{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+/* site logo */
+.site-logo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 1em;
+}
+
+.site-logo-phrase{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.site-logo-subtitle{
+    margin: 0;
+}
+
+/* nav links */
+.nav-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+}
+
+.nav-list li{
+    margin: 1em 0;
+    letter-spacing: .2em;
+    padding:0;
+}
+
+.nav-link{
+    margin: 0;
+    padding: 1em 1em;
+    text-decoration: none;
+    color: black;
+}
+
+.nav-link:hover{
+    background-color:#E9D4D4;
+}
+
