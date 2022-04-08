@@ -158,3 +158,36 @@ Navigation
     background-color:#E9D4D4;
 }
 
+
+/* Footer */
+footer {
+    background-color: #FAF2F2;
+}
+
+.container-footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.container-footer p{
+    margin:0;
+}
+
+.social-links{
+    color:gray;
+    text-decoration: none;
+}
+
+.social-links a{
+    color:gray;
+}
+
+.newsletter-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 50%;
+    margin: 1em auto;
+}
