@@ -6,9 +6,19 @@ Challenge Description: [FreeCodeCamp: Responsive Web Design Product Landing Page
 
 This project is a part of FreeCodeCamp's Responsive Web Design course. The challenge is to create a tribute page similar to this: https://codepen.io/freeCodeCamp/full/RKRbwL
 
-Mobile Screenshot:
-
 Desktop Screenshot:
+<p align="center">
+<img src="./screenshots/desktop-screenshot-1.png" width="420" height="300">
+<img src="./screenshots/desktop-screenshot-2.png" width="420" height="300">
+
+</p>
+
+Mobile Screenshots:
+<p align="center">
+<img src="./screenshots/mobile-screenshot-1.png" width="275" height="350">
+<img src="./screenshots/mobile-screenshot-2.png" width="275" height="350">
+<img src="./screenshots/mobile-screenshot-3.png" width="275" height="350">
+</p>
 
 
 Required Elements:
