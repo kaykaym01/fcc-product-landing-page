@@ -1,5 +1,5 @@
 # fcc-product-landing-page
-Live Site:[Product Landing Page](https://kaykaym01.github.io/fcc-product-landing-page/)
+Live Site: [Product Landing Page](https://kaykaym01.github.io/fcc-product-landing-page/)
 
 
 Challenge Description: [FreeCodeCamp: Responsive Web Design Product Landing Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
